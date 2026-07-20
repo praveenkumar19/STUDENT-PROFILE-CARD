@@ -1,4 +1,4 @@
-<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/deebc331-36f8-4f57-b44f-ace9553fb81c" /># 🎓 Student Profile Card
+#🎓 Student Profile Card
 
 A simple and responsive **Student Profile Card** web application built using **HTML, CSS, and JavaScript**. The application allows users to enter student details, automatically calculates the student's grade based on marks, determines the pass/fail status, and displays the information in a stylish profile card.
 
